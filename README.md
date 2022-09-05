@@ -21,5 +21,5 @@ iOSDC2022冊子内記事「SwiftUIやAttributedStringで使えるMarkdown記法�
 # 動作環境
 
 - 開発環境: Xcode 13.4.1
-- Deployment Target: 15.5(MarkdownSampleiOS13のみ13.0)
+- Deployment Target: 15.0(MarkdownSampleiOS13のみ13.0)
 - iOSシミュレータ・実機両方で実行可能です。
