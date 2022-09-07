@@ -9,6 +9,8 @@ iOSDC2022冊子内記事「SwiftUIやAttributedStringで使えるMarkdown記法�
 
 - MarkdownSample
   - SwiftUIのTextやLabelでMarkdown記法を利用した例です。
+- MarkdownSampleUIKit
+  - UIKitでMarkdown記法を利用した例です。
 - MarkdownSampleiOS13
   - iOS 13のSwiftUIでMarkdown記法を利用した例です。
 - CustomMarkdownSample
